@@ -1,0 +1,22 @@
+.App {
+  background-color: #898989;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.App-card {
+  background-color: #f8f9fa; /* pastel light gray */
+  color: #434344; /* pastel gray */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 500px;
+}
+
+.App h1 {
+  font-size: 2rem;
+}
